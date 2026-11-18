@@ -1,0 +1,16 @@
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.exe
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.deps.json
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.runtimeconfig.json
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.runtimeconfig.dev.json
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.dll
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\bin\Debug\net11.0\GitLabActivity.pdb
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.AssemblyInfoInputs.cache
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.AssemblyInfo.cs
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.dll
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\refint\GitLabActivity.dll
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.pdb
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabActivity.genruntimeconfig.cache
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\ref\GitLabActivity.dll
+C:\Users\jayson\source\repos\FirstConsoleApplication\GitLabActivity\GitLabActivity\obj\Debug\net11.0\GitLabAc.D13A978D.Up2Date
